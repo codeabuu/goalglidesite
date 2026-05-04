@@ -19,4 +19,4 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap location
-Sitemap: https://90plussite.vercel.app/sitemap.xml
+Sitemap: https://goalglidesite.vercel.app/sitemap.xml
