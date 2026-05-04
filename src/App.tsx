@@ -550,7 +550,7 @@ export default function App() {
         {/* FOOTER */}
         <footer style={{ borderTop:`1px solid rgba(0,230,118,.15)`,padding:'22px 18px',textAlign:'center' }}>
           <div style={{ paddingTop: '20px', fontSize: '0.7rem', color: C.muted, lineHeight: 1.6, maxWidth: '90%', margin: '0 auto' }}>
-  <strong style={{ color: C.accent }}>90PLUS TIPS</strong> provides daily football insights including 
+  <strong style={{ color: C.accent }}>GOALGLIDE TIPS</strong> provides daily football insights including 
   <strong> BTTS (Both Teams to Score)</strong>, <strong>Over 2.5 Goals</strong>, 
   <strong>Tip of the Day</strong>, <strong>Multi Combos</strong>, and league-specific analysis for 
   Premier League, La Liga, Serie A, Bundesliga, and Champions League.  
@@ -561,7 +561,7 @@ export default function App() {
               <span key={l} style={{ fontSize:'.68rem',color:C.muted }}>{l}</span>
             ))}
           </div>
-          <div style={{ fontSize:'.6rem',color:'#2a4030' }}>© 2026 90Plus Tips · All rights reserved</div>
+          <div style={{ fontSize:'.6rem',color:'#2a4030' }}>© 2026 Goalglide Tips · All rights reserved</div>
         </footer>
 
       </div>
