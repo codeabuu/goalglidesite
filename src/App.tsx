@@ -352,7 +352,7 @@ export default function App() {
       rgba(3,16,10,.55),
       rgba(3,16,10,.82)
     ),
-    url('/geminimage.png')
+    url('/geminimage.avif')
   `,
   backgroundSize:'cover',
   backgroundPosition:'center top',
@@ -595,7 +595,7 @@ export default function App() {
       rgba(3,16,10,.42),
       rgba(3,16,10,.72)
     ),
-    url('/hero-bg.jpg')
+    url('/hero-bg.avif')
   `,
 
   backgroundSize:'cover',
